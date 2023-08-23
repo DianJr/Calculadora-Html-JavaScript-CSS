@@ -2,7 +2,7 @@
 Bem dei uma estudada em alguns comandos e com alguns auxilios criei essa calculadora simples
 O Passo a Passo foi: 
 
-1- Comecei declarando o <!DOCTYPE html>: Isso declara o tipo de documento.
+1- Comecei declarando o !DOCTYPE html: Isso declara o tipo de documento.
 
 2- <html lang="pt-br">: Abre a tag <html> e coloquei o idioma da página como português do Brasil.
 
