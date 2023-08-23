@@ -16,7 +16,7 @@ O Passo a Passo foi:
 
 7- Depois comecei a fazer os inputs para a calculadora 
 
-button onclick="somar()">Somar</button: Cria um botão que, quando clicado, chama a função somar() definida no JavaScript.
+8- Comecei criando um button on click "somar" que, quando clicado, chama a função somar() definida no JavaScript.
 
 Outros botões de operação (Subtrair, Multiplicar, Dividir) seguem a mesma lógica.
 
