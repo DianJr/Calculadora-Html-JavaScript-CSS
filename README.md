@@ -40,4 +40,4 @@ Todas as outras três seguiam a mesma lógica so mudavam os sinais de operação
 16- Fechei as Tags Body e Html
 
 Extra: Não Cheguei a colocar a parte de CSS por que é mais por estilo de cada um fazer do seu proprio gosto
-Agora para o css funcionar vc precisar criar um index.css e no index.html criar um caminho para acessar ele usandp = link rell='' href='' type=''
+Agora para o css funcionar vc precisar criar um index.css e no index.html criar um caminho para acessar ele usando = link rell='' href='' type=''
