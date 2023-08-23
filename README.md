@@ -8,7 +8,7 @@ O Passo a Passo foi:
 
 3- tag head: Começa o cabeçalho, onde as informações meta e o título da página são especificados. O conteúdo dentro desta tag não é exibido na página, mas fornece informações sobre a página para o navegador.
 
-4- tag title: Defini o título da página exibido na aba do navegador, e depois fechei com a tag /head
+4- tag title: Defini o título da página exibido na aba do navegador sendo a palavra Calculadora, e depois fechei a head
 
 5- <body>: Abre o corpo da página, onde o conteúdo visível é colocado.
 
