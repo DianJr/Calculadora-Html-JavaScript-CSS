@@ -10,7 +10,7 @@ O Passo a Passo foi:
 
 4- tag title: Defini o título da página exibido na aba do navegador sendo a palavra Calculadora, e depois fechei a head
 
-5- <body>: Abre o corpo da página, onde o conteúdo visível é colocado.
+5- tag body: Abre o corpo da página, onde o conteúdo visível é colocado.
 
 6- Depois Criei um h1 para a palavra calculadora pra ficar como cabeçalho da pagina
 
