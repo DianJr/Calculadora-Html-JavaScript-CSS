@@ -38,3 +38,5 @@ Todas as outras três seguiam a mesma lógica so mudavam os sinais de operação
 15- </script>: Fecha a tag <script>.
 
 16- Fechei as Tags Body e Html
+
+Extra: Não Cheguei a colocar a parte de CSS por que é mais por estilo de cada um fazer do seu proprio gosto
