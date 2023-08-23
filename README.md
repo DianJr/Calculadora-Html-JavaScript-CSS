@@ -12,7 +12,7 @@ O Passo a Passo foi:
 
 5- <body>: Abre o corpo da página, onde o conteúdo visível é colocado.
 
-6- <h1>Calculadora: Fiz para exibir um cabeçalho para a pagina 
+6- Depois Criei um h1 para a palavra calculadora pra ficar como cabeçalho da pagina
 
 7- Depois comecei a fazer os inputs para a calculadora 
 
