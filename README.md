@@ -24,7 +24,7 @@ Outros botões de operação (Subtrair, Multiplicar, Dividir) seguem a mesma ló
 
 10- Criei a tag script para incorporar código JavaScript no documento.
 
-11- var n1 = document.querySelector('#n1');: Isso define a variável n1 para armazenar uma referência ao elemento HTML com o id n1, ou seja, o primeiro campo de entrada.Fiz mais duas varias uma para n2 e outra para o resultado.
+11- var n1 = document.querySelector('#n1');: Isso define a variável n1 para armazenar uma referência ao elemento HTML com o id n1, ou seja, o primeiro campo de entrada.Fiz mais duas variantes uma para n2 e outra para o resultado.
 
 12- Depois comecei a fazer o processo das 4 operações que seguiam esse logica:                                              
   function somar() {
