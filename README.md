@@ -20,22 +20,22 @@ O Passo a Passo foi:
 
 Outros botões de operação (Subtrair, Multiplicar, Dividir) seguem a mesma lógica.
 
-<span></span>: Um espaço reservado onde o resultado será exibido. Inicialmente, está vazio.
+9- fiz um comando de span que é um espaço reservado onde o resultado será exibido. Inicialmente, está vazio.
 
-8- <script>: Abre a tag <script> para incorporar código JavaScript no documento.
+10- Criei a tag script para incorporar código JavaScript no documento.
 
-9- var n1 = document.querySelector('#n1');: Isso define a variável n1 para armazenar uma referência ao elemento HTML com o id n1, ou seja, o primeiro campo de entrada.Fiz mais duas varias uma para n2 e outra para o resultado.
+11- var n1 = document.querySelector('#n1');: Isso define a variável n1 para armazenar uma referência ao elemento HTML com o id n1, ou seja, o primeiro campo de entrada.Fiz mais duas varias uma para n2 e outra para o resultado.
 
-10- Depois comecei a fazer o processo das 4 operações que seguiam esse logica:                                              
+12- Depois comecei a fazer o processo das 4 operações que seguiam esse logica:                                              
   function somar() {
             resultado.innerHTML = parseFloat(n1.value) + parseFloat(n2.value)
 Todas as outras três seguiam a mesma lógica so mudavam os sinais de operação de cada uma e os nomes no lugar de somar por exemplo viraria subtrair caso fosse subtração a operação
 
-11- parseFloat(): Converte os valores dos campos de entrada em números de ponto flutuante (decimais) para realizar as operações corretamente.
+13- parseFloat(): Converte os valores dos campos de entrada em números de ponto flutuante (decimais) para realizar as operações corretamente.
 
-12- resultado.innerHTML: Atualiza o conteúdo do elemento span com o resultado da operação.
+14- resultado.innerHTML: Atualiza o conteúdo do elemento span com o resultado da operação.
 
-13- </script>: Fecha a tag <script>.
+15- </script>: Fecha a tag <script>.
 
 </body>: Fecha a seção do corpo da página.
 
