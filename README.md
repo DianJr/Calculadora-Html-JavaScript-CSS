@@ -1,7 +1,9 @@
 # Calculadora-Html-e-JavaScript
 Bem dei uma estudada em alguns comandos e com alguns auxilios criei essa calculadora simples
-O Passo a Passo foi:
+O Passo a Passo foi: 
+
 1- Comecei declarando o <!DOCTYPE html>: Isso declara o tipo de documento.
+
 2- <html lang="pt-br">: Abre a tag <html> e coloquei o idioma da página como português do Brasil.
 
 3- <head>: Começa o cabeçalho, onde as informações meta e o título da página são especificados. O conteúdo dentro desta tag não é exibido na página, mas fornece informações sobre a página para o navegador.
