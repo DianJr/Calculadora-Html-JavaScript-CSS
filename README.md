@@ -37,6 +37,4 @@ Todas as outras três seguiam a mesma lógica so mudavam os sinais de operação
 
 15- </script>: Fecha a tag <script>.
 
-"</body>": Fecha a seção do corpo da página.
-
-"</html>": Fecha a tag <html>.
+16- Fechei as Tags Body e Html
