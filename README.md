@@ -1,4 +1,4 @@
-# Calculadora-Html-e-JavaScript
+# Calculadora-Html-JavaScript-CSS
 Bem dei uma estudada em alguns comandos e com alguns auxilios criei essa calculadora simples
 O Passo a Passo foi: 
 
